@@ -1,11 +1,10 @@
 # Remove Outliers
-MoveApps
+MoveApps 
 
 Github repository: *github.com/movestore/RemoveOutliers*
 
 ## Description
-The automated-packaging-framework in my masterthesis should detect new commits and start repackaging the Repository and give it a new version. Updating the README.md and commiting it should give it a new commitSHA, so the framework detects this and creates a new version.
-Check another endpoint.
+Check check 123.
 
 ## Documentation
 This App is designed to remove outliers from your data set prior to subsequent analysis steps. First, it removes any empty location (thanks Steffen Oppel!) and locations with longitude/latitude outside of the defined ranges -180 to 180 (longitude) and -90 to 90 (latitude). Then, based on user-provided settings, it can optionally remove
